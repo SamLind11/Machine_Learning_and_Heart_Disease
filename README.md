@@ -1,5 +1,7 @@
 # Machine Learning and Heart Disease
 
+Please visit [this link](https://docs.google.com/presentation/d/1VyorBf0sHAhYx9ayyVNDLu7KCFUNYTd3rNXC3T8R6l4/edit?usp=sharing) to view the Google Slides presentation for this project.
+
 ## Authors
 - [Kaija Gregory](https://github.com/kaijaygregory)
 - [Sam Lind](https://github.com/SamLind11)

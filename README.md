@@ -21,6 +21,11 @@ Before developing any machine learning models, several data visualizations were 
 
 <img src='https://github.com/SamLind11/Machine_Learning_and_Heart_Disease/assets/131621692/1a9cca0e-ed99-4a3a-8250-e6e13359943c' width=600/>
 
+![Disease Dashboard](https://github.com/SamLind11/Machine_Learning_and_Heart_Disease/assets/133790908/f79376f4-ed33-4a72-b7fd-fee4ed36632a)
+
+![Lifestyle Dashboard](https://github.com/SamLind11/Machine_Learning_and_Heart_Disease/assets/133790908/2b97e241-ef47-4e15-bcf0-147b467566e9)
+
+
 ## Data Preprocessing
 The `data_cleaning.ipynb` contains code for processing data from the csv file.  The data was first loaded into a Pandas Dataframe.  Next, fifteen relevant features were selected from the original 40.  Continuous values such as Height and Weight were scaled using `StandardScaler` and categorical data was one-hot encoded into separate columns using the `get_dummies` method in Pandas.  
 
